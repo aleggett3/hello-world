@@ -1,4 +1,6 @@
 # hello-world
 First Time Repository
 Hello Everybody,
-My name is Aaron, and this is the first time I have ever been on a coding website that give it to you for free. I am a high school biology teacher and currently still a student at the University of Missouri-St. Louis. 
+My name is Aaron, and this is the first time I have ever been on a coding website that give it to you for free. I am a high school biology teacher and currently still a student at the University of Missouri-St. Louis.
+
+Now I'm trying to figure this website out because I though I was going to have the ability to code somethings, but it just seems like a blog that is in coding format. So, what do I do on here? 
